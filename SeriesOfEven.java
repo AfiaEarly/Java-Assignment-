@@ -6,7 +6,7 @@ public class SeriesOfEven {
     
     for(i=2;i<=100;i+=2)
     {
-        System.out.println(i);
+        System.out.print(i +" ");
     }
            
    }
